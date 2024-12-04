@@ -1,0 +1,8 @@
+/*Set standard font-family for pages*/
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+li {
+    font-size: large;
+}
