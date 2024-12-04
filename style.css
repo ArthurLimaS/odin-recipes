@@ -3,6 +3,12 @@
     font-family: Georgia, 'Times New Roman', Times, serif
 }
 
-li {
+li,
+p {
     font-size: large;
+}
+
+.food-image {
+    height: 300px;
+    width: auto;
 }
