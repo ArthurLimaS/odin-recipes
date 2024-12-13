@@ -9,7 +9,7 @@ body {
     background-color: azure;
 }
 
-.container {
+.frame {
     background-color: white;
     
     max-width: 800px;
@@ -24,9 +24,13 @@ h1, h2, p {
     text-align: center;
 }
 
-h1, h2 {
+.borded-header {
     border-top: 1px solid black;
     border-bottom: 1px solid black;
+}
+
+.image-link {
+    text-align: center;
 }
 
 .food-image {
