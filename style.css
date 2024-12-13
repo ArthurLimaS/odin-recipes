@@ -38,6 +38,18 @@ h1, h2 {
     margin: 0px auto;
 }
 
+button {
+    display: block;
+
+    margin: 0px auto 30px;
+    font-size: large;
+}
+
+.button-text {
+    color: black;
+    text-decoration: none;
+}
+
 /* 
 h2, p {
     width: 45%;
